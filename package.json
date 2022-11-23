@@ -1,6 +1,6 @@
 {
   "name": "keeper-app",
-  "homepage": "https://timmybytes.github.io/Keeper-App/",
+  "homepage": "https://keepitupdate.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
